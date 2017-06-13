@@ -1,0 +1,43 @@
+Mono path[0] = 'D:/Users/Julian/Documents/GitHub/CLC3_FrameRateAtom/FrameRateAtom/Atom_Data/Managed'
+Mono path[1] = 'D:/Users/Julian/Documents/GitHub/CLC3_FrameRateAtom/FrameRateAtom/Atom_Data/Mono'
+Mono config path = 'D:/Users/Julian/Documents/GitHub/CLC3_FrameRateAtom/FrameRateAtom/Atom_Data/Mono/etc'
+PlayerConnection initialized from D:/Users/Julian/Documents/GitHub/CLC3_FrameRateAtom/FrameRateAtom/Atom_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55134
+Multi-casting "[IP] 192.168.0.17 [Port] 55134 [Flags] 3 [Guid] 1198726546 [EditorId] 1560211683 [Version] 1048832 [Id] WindowsPlayer(Neuromancer) [Debug] 0" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55134]...
+PlayerConnection accepted from [192.168.0.17] handle:0x394
+Started listening to [0.0.0.0:55134]
+PlayerConnection already initialized - listening to [0.0.0.0:55134]
+Player data archive not found at `D:/Users/Julian/Documents/GitHub/CLC3_FrameRateAtom/FrameRateAtom/Atom_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Users\Julian\Documents\GitHub\CLC3_FrameRateAtom\FrameRateAtom\Atom_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\Julian\Documents\GitHub\CLC3_FrameRateAtom\FrameRateAtom\Atom_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\Julian\Documents\GitHub\CLC3_FrameRateAtom\FrameRateAtom\Atom_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\Julian\Documents\GitHub\CLC3_FrameRateAtom\FrameRateAtom\Atom_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\Julian\Documents\GitHub\CLC3_FrameRateAtom\FrameRateAtom\Atom_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\Julian\Documents\GitHub\CLC3_FrameRateAtom\FrameRateAtom\Atom_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\Julian\Documents\GitHub\CLC3_FrameRateAtom\FrameRateAtom\Atom_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\Julian\Documents\GitHub\CLC3_FrameRateAtom\FrameRateAtom\Atom_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Users\Julian\Documents\GitHub\CLC3_FrameRateAtom\FrameRateAtom\Atom_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Users\Julian\Documents\GitHub\CLC3_FrameRateAtom\FrameRateAtom\Atom_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.019 seconds
+Platform assembly: D:\Users\Julian\Documents\GitHub\CLC3_FrameRateAtom\FrameRateAtom\Atom_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Users\Julian\Documents\GitHub\CLC3_FrameRateAtom\FrameRateAtom\Atom_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.631876 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 355c -> priority: 1 
+  Thread -> id: 3bc -> priority: 1 
+  Thread -> id: 23c0 -> priority: 1 
+  Thread -> id: 1b38 -> priority: 1 
+Waiting for finish
